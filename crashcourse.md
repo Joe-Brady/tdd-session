@@ -1,0 +1,25 @@
+# TDD crash course plan
+
+- Intro - different types of testing, TDD/BDD with all of it.
+- Sometimes hard to do TDD if you don't know the language or library. How to tackle that? (mini spike then re-write)
+- Qualms with TDD? Post-it-note on wall to track if we tackle those issues.
+- Brainstorm ideas for functions to write / story to tell. Should be medium complexity.
+- Choose one or two.
+- In pairs, write function without tests. Perhaps driver/navigator?
+- Trial and error until it works.
+- Then write the tests. Try to work out what to test and how etc.
+- Perhaps a different function for next step?
+- Write comments to describe what the function has to do
+- Describe the different ways to approach WHEN to write tests
+- In pairs, decide whether to write all tests up front or one at a time
+- Ping pong pairing - write tests and code. Make sure the tests break first.
+- MINIMUM amount of code. Try to 'cheat' your way to making the other person's test pass
+- Any way to refactor? Check if tests still pass.
+- Brainstorm the 'new feature' of the function.
+- What's the first thing we need to do to add this new feature?
+- Write the new test(s) first, then write the code
+- Identify/come up with a bug that's not caught by tests.
+- New test that breaks to highlight bug, then fix.
+- Component testing? BDD?
+- Were your fears resolved?
+- Fin
